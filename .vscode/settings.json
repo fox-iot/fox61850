@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "hal_thread.h": "c",
-        "algorithm": "c",
-        "static_model.h": "c"
-    },
-    "cmake.configureOnOpen": false
-}
